@@ -29,6 +29,8 @@ This was helpful to discover patterns and derive insights from the dataset which
 
 Identified popular movies based on its movie rating, also set up an additional column to classify movies as Excellent, good or average based on its rating
 
+<img src="https://github.com/Ugo90s/movieDataset_Cleaning_exploratory_analysis/blob/main/Top_moviesByRating.png" width=60% height=50%>
+
 ## Popular Genre (based on Movie rating)
 
 Showcased top movie Genres and its corresponding movie title
