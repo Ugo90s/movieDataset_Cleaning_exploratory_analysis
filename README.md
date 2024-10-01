@@ -22,9 +22,9 @@ This was helpful to discover patterns and derive insights from the dataset which
 
 ![image](https://github.com/Ugo90s/movieDataset_Cleaning_exploratory_analysis/blob/main/top10_lengthyMovie.png)
 
-![image]
+![image](https://github.com/Ugo90s/movieDataset_Cleaning_exploratory_analysis/blob/main/movie_rating_byYear.png)
 
-![image]
+![image](https://github.com/Ugo90s/movieDataset_Cleaning_exploratory_analysis/blob/main/top_movieGenre.png)
 
 
 ## Top Movie Rating and classifying movies as "Excellent", Good, or Average
