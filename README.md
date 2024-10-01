@@ -20,11 +20,9 @@ Duplicate entries were checked and deleted to avoid redundant data
 
 This was helpful to discover patterns and derive insights from the dataset which includes learning the average movie duration for all movies in the dataset, identifying lenghty movies, discovering number of movies produced each year, finding top movie directors (by its movie rating), a scatterplot to showcase movie rating over the years
 
-![image](https://github.com/Ugo90s/movieDataset_Cleaning_exploratory_analysis/blob/main/top10_lengthyMovie.png)
+<img src="https://github.com/Ugo90s/movieDataset_Cleaning_exploratory_analysis/blob/main/movie_rating_byYear.png" width=60% height=50%>
 
-![image](https://github.com/Ugo90s/movieDataset_Cleaning_exploratory_analysis/blob/main/movie_rating_byYear.png)
-
-![image](https://github.com/Ugo90s/movieDataset_Cleaning_exploratory_analysis/blob/main/top_movieGenre.png)
+<img src="https://github.com/Ugo90s/movieDataset_Cleaning_exploratory_analysis/blob/main/top_movieGenre.png" width=60% height=50%>
 
 
 ## Top Movie Rating and classifying movies as "Excellent", Good, or Average
